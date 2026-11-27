@@ -4,7 +4,6 @@ Portifólio feito sob orientação da Profa. Noemi Honorato, com intuito de demo
 <br>
 
 # ⚒️ Ferramentas utilizadas
-<br>
 
 ## 🌐 HTML
 <br>
