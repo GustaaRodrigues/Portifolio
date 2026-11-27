@@ -2,6 +2,9 @@
 <br>
 Portifólio feito sob orientação da Profa. Noemi Honorato, com intuito de demonstrar com mais detalhes quem eu sou e quais são meus talentos.
 <br>
+<img width="758" height="578" alt="image" src="https://github.com/user-attachments/assets/eac81672-7156-446e-aea7-06102da49d0d" />
+
+<br>
 
 # ⚒️ Ferramentas utilizadas
 
@@ -24,4 +27,9 @@ A parte mais simples do projeto, onde foi só implementado o modo escuro do site
 
 # Clique no hiperlink abaixo para acessar o site:
 <br>
+<a href="https://portifoliogustavordgs.netlify.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Acessar_Portf%C3%B3lio-Online-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Acessar Portfólio">
+</a>
+
+
 
