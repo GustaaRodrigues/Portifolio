@@ -25,7 +25,7 @@ Com o CSS, dei cor e vida ao esqueleto feito pelo HTML, definindo cores de acord
 A parte mais simples do projeto, onde foi só implementado o modo escuro do site. Dando mais descanso visual ao leitor.
 <br>
 
-# Clique no hiperlink abaixo para acessar o site:
+# Clique no botão abaixo para acessar o site:
 <br>
 <a href="https://portifoliogustavordgs.netlify.app/" target="_blank">
   <img src="https://img.shields.io/badge/Acessar_Portf%C3%B3lio-Online-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Acessar Portfólio">
